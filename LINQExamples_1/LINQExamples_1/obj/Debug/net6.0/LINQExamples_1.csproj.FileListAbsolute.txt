@@ -1,0 +1,14 @@
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\bin\Debug\net6.0\LINQExamples_1.exe
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\bin\Debug\net6.0\LINQExamples_1.deps.json
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\bin\Debug\net6.0\LINQExamples_1.runtimeconfig.json
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\bin\Debug\net6.0\LINQExamples_1.dll
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\bin\Debug\net6.0\LINQExamples_1.pdb
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.dll
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\refint\LINQExamples_1.dll
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.pdb
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\LINQExamples_1.genruntimeconfig.cache
+C:\Users\digdr\Documents\coding\FCC-Linq-2\LINQExamples_1\LINQExamples_1\obj\Debug\net6.0\ref\LINQExamples_1.dll
